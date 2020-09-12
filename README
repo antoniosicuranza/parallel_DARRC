@@ -1,5 +1,5 @@
 Per la corretta esecuzione del codice è necessario seguire le istruzioni contenute sul file readme contenuto all'interno della cartella DARRC per l'istallazione delle librerie necessarie.
-Una volta eseguito il make e istallato il programma è possibile eseguirlo da linea di comando utilizzando il seguente codice:
+Una volta eseguito il make e installato il programma è necessario estrarre il file "Devil_982009104871393.1.fq.zip" per poi eseguire da linea di comando il seguente codice:
 
 darrc -c -1 Devil_982009104871393.1.fq -g test -m meta -dir data
 
